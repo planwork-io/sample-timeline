@@ -1,5 +1,6 @@
 {
   "__typename":"Timeline",
+  "version": "1.0.0",
   "viewType":"Q",
   "visibility":null,
   "milestones":[],
