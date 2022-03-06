@@ -1,0 +1,80 @@
+{
+    "version": "1.0.0",
+    "id": "sample_timeline_id",
+    "title": "My First Timeline",
+    "description": "Project timeline for the app development",
+    "startDate": "2021-08-20",
+    "endDate": "2022-08-20",
+    "viewType": "M",
+    "milestones": [
+        {
+            "id": "zJFvGT6DhLW4SRJKspbBM",
+            "title": "Alpha release",
+            "color": "#ffd180",
+            "rank": 1,
+            "date": "2022-06-02"
+        },
+        {
+            "id": "nYciuZvQkVhfvrqsBeHS7",
+            "title": "Started",
+            "color": "#1a8ce1",
+            "rank": 2,
+            "date": "2021-11-11"
+        }
+    ],
+    "lanes": [
+        {
+            "id": "UVfkTOYJlYzSkggrurPiu",
+            "title": "Team Alpha",
+            "color": "#ffc107",
+            "rank": 1,
+            "tasks": [
+                {
+                    "id": "jqFuBDMMdIt9evd1NQHCl",
+                    "title": "Requirement Gathering",
+                    "startDate": "2021-11-14",
+                    "endDate": "2022-01-05",
+                    "color": "#ff4081",
+                    "rank": 1,
+                    "progress": 0
+                },
+                {
+                    "id": "jyibfphiEJifXi3i3p0uc",
+                    "title": "High-level Design",
+                    "startDate": "2021-12-22",
+                    "endDate": "2022-02-06",
+                    "color": "#ffc107",
+                    "rank": 2,
+                    "progress": 0
+                },
+                {
+                    "id": "UWsCpQr770SDqJhZBI-DC",
+                    "title": "Low-level design ",
+                    "startDate": "2022-01-23",
+                    "endDate": "2022-03-31",
+                    "color": "#40c4ff",
+                    "rank": 3,
+                    "progress": 0
+                },
+                {
+                    "id": "1lZP05yhUBNexN9KEXKl3",
+                    "title": "Presentation to the stakeholders",
+                    "startDate": "2022-02-12",
+                    "endDate": "2022-04-18",
+                    "color": "#ffc107",
+                    "rank": 2,
+                    "progress": 0
+                },
+                {
+                    "id": "nDYw1FAjHlWDbyC6GiHsL",
+                    "title": "Implementation and Execution",
+                    "startDate": "2022-03-29",
+                    "endDate": "2022-05-30",
+                    "color": "#ccff90",
+                    "rank": 4,
+                    "progress": 0
+                }
+            ]
+        }
+    ]
+}
